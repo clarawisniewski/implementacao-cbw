@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(107, 44, 126);
+    color: white;
+    text-align: center;
+}
+
+h1 span{
+    color: rgb(31, 197, 189);
+}
+
+#dias_restantes{
+    color: black;
+    font-size: 50px;
+}
